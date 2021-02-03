@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS target\test-classes\com\example\demo\DemoApplicationTests.class
+web: java -Dserver.port=$PORT $JAVA_OPTS src\main\java\com\example\demo\DemoApplication.java
